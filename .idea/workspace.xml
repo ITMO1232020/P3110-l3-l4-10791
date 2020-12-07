@@ -73,6 +73,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SpringBeansView">
@@ -100,7 +113,7 @@
       <workItem from="1607074317877" duration="7177000" />
       <workItem from="1607082163831" duration="98000" />
       <workItem from="1607084908246" duration="313000" />
-      <workItem from="1607317778925" duration="645000" />
+      <workItem from="1607317778925" duration="4485000" />
     </task>
     <servers />
   </component>
@@ -165,25 +178,25 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="95" key="FileChooserDialogImpl/0.0.1366.738/1366.0.720.450@0.0.1366.738" timestamp="1607081537248" />
-    <state width="1323" height="139" key="GridCell.Tab.0.bottom" timestamp="1607082263017">
+    <state width="1323" height="139" key="GridCell.Tab.0.bottom" timestamp="1607323752378">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="139" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.720.450@0.0.1366.738" timestamp="1607082263017" />
+    <state width="1323" height="139" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.720.450@0.0.1366.738" timestamp="1607323752378" />
     <state width="677" height="168" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.720.450@1366.0.720.450" timestamp="1606730384023" />
-    <state width="1323" height="139" key="GridCell.Tab.0.center" timestamp="1607082263017">
+    <state width="1323" height="139" key="GridCell.Tab.0.center" timestamp="1607323752378">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="139" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.720.450@0.0.1366.738" timestamp="1607082263017" />
+    <state width="1323" height="139" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.720.450@0.0.1366.738" timestamp="1607323752378" />
     <state width="677" height="168" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.720.450@1366.0.720.450" timestamp="1606730384023" />
-    <state width="1323" height="139" key="GridCell.Tab.0.left" timestamp="1607082263017">
+    <state width="1323" height="139" key="GridCell.Tab.0.left" timestamp="1607323752377">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="139" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.720.450@0.0.1366.738" timestamp="1607082263017" />
+    <state width="1323" height="139" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.720.450@0.0.1366.738" timestamp="1607323752377" />
     <state width="677" height="168" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.720.450@1366.0.720.450" timestamp="1606730384023" />
-    <state width="1323" height="139" key="GridCell.Tab.0.right" timestamp="1607082263017">
+    <state width="1323" height="139" key="GridCell.Tab.0.right" timestamp="1607323752378">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="139" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.720.450@0.0.1366.738" timestamp="1607082263017" />
+    <state width="1323" height="139" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.720.450@0.0.1366.738" timestamp="1607323752378" />
     <state width="677" height="168" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.720.450@1366.0.720.450" timestamp="1606730384023" />
     <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1606850120290">
       <screen x="0" y="0" width="1366" height="738" />
